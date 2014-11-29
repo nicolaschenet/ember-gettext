@@ -1,4 +1,5 @@
 # ember-gettext
+[![Build Status](https://travis-ci.org/Wisembly/ember-gettext.svg?branch=master)](https://travis-ci.org/Wisembly/ember-gettext)
 
 i18n gettext.js wrapper for Ember controllers and Handlebars templates
 
