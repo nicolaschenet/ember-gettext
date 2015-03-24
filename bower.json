@@ -1,6 +1,6 @@
 {
   "name": "ember-gettext",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "i18n gettext.js wrapper for Ember controllers and Handlebars templates",
   "main": [ "lib/i18n-gettext.js" ],
   "dependencies": {
